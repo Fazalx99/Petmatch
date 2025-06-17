@@ -1,25 +1,11 @@
 # 🐾 PETMATCH  
 **Transforming Pet Adoption, One Match at a Time**
-
-![Last Commit](https://img.shields.io/github/last-commit/Fazalx99/Petmatch)  
-![Top Language](https://img.shields.io/github/languages/top/Fazalx99/Petmatch)  
-![Language Count](https://img.shields.io/github/languages/count/Fazalx99/Petmatch)
-
+Deployed Link- petmatchh.netlify.app
 ---
 
 ## ⚙️ Built With
 
-![JSON](https://img.shields.io/badge/-JSON-informational?style=flat&logo=json)  
-![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm)  
-![PostCSS](https://img.shields.io/badge/-PostCSS-DD3A0A?style=flat&logo=postcss)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)  
-![Zod](https://img.shields.io/badge/-Zod-3178C6?style=flat&logo=typescript)  
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)  
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint)  
-![date-fns](https://img.shields.io/badge/-datefns-FF6B6B?style=flat)  
-![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat)
+![JSON](https://img.shields.io/badge/-JSON-informational?style=flat&logo=json)  ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm)  ![PostCSS](https://img.shields.io/badge/-PostCSS-DD3A0A?style=flat&logo=postcss)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)  ![Zod](https://img.shields.io/badge/-Zod-3178C6?style=flat&logo=typescript)  ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)  ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint)  ![date-fns](https://img.shields.io/badge/-datefns-FF6B6B?style=flat)  ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat)
 
 ---
 
